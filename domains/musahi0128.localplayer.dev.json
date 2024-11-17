@@ -1,0 +1,15 @@
+{
+    "domain": "localplayer.dev",
+    "subdomain": "musahi0128",
+
+    "owner": {
+        "email": "musahi0128@gmail.com",
+        "repo": "https://github.com/musahi0128/register"
+    },
+
+    "record": {
+        "A": ["158.178.238.252"]
+    },
+
+    "proxied": false
+}
